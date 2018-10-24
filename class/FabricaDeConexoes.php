@@ -1,6 +1,6 @@
 <?php
 require_once "carrega-classes.php";
-require_once "propriedades-conexao-remota-byethost.php";
+require_once "propriedades-conexao.php";
 require_once "debug.php";
 
 class FabricaDeConexoes {
